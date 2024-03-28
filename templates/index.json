@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "changes from git",
+            "heading": "changes from local",
             "heading_size": "h0"
           }
         },
